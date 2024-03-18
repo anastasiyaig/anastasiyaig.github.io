@@ -1,0 +1,38 @@
+baseurl = "http://anastasiyaig.github.io"
+title = "anastasiya"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+[markup.highlight]
+style = "github-dark"
+
+[params]
+  author = "Anastasiya Semiankevich"
+  info = "Lead QA Engineer"
+  description = "Anastasiya Semiankevich's personal website"
+  keywords = "qa,personal"
+  avatarurl = "https://media.licdn.com/dms/image/C4D03AQFRgCquFZou-g/profile-displayphoto-shrink_800_800/0/1585233219390?e=1716422400&v=beta&t=U_CtBV-VgNgnWfJlgP5WM8prMer6zI1y_kF2Cz94E5M"
+
+  since = 2024
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa-brands fa-github fa-2x"
+  weight = 2
+  url = "https://github.com/anastasiyaig"
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa fa-linkedin fa-2x"
+  weight = 2
+  url = "https://www.linkedin.com/in/anastasiya-semiankevich/"
