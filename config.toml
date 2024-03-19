@@ -35,3 +35,14 @@ style = "github-dark"
   icon = "fa fa-linkedin fa-2x"
   weight = 2
   url = "https://www.linkedin.com/in/anastasiya-semiankevich/"
+[[params.social]]
+  name = "Telegram"
+  icon = "fa fa-telegram fa-2x"
+  weight = 2
+  url = "https://t.me/in_nocent"
+
+# Menu items
+[[menu.main]]
+  name = "About"
+  weight = 2
+  url = "about/"
