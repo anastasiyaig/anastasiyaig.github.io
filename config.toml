@@ -50,6 +50,10 @@ languageName = ':uk:'
     name = "About"
     weight = 2
     url = "about/"
+[[languages.en.menu.main]]
+    name = "Courses"
+    weight = 2
+    url = "courses/"
 
 [languages.ru]
 languageName = ':ru:'
@@ -61,3 +65,8 @@ languageName = ':ru:'
     name = "Обо мне"
     weight = 2
     url = "about/"
+[[languages.ru.menu.main]]
+    name = "Курсы"
+    weight = 2
+    url = "courses/"
+
