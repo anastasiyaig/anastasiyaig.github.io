@@ -14,4 +14,6 @@ Main technologies I work with:
 python, pytest ( + selenium for web apps) ( + Squish for QT / QML desktop apps)
 Jira, Confluence, Notion, Git, Jenkins, TestRail, Zeplin, Browserstack, Kentiko, Figma, Charles Proxy, Postman,  Grafana, Graylog & ELK, EKS, JumpCloud, AWS, OVH, MySQL, SQLWorkBench
 
+I also have around of 5.5 years of experience working with blockchain technology and web3 (staking, transactions overall, minting, airdropping, NFT, p2p messaging protocols (waku), i know what is Infura and ipfs, dApps and many more)
+
 I completed several courses and continue learning Python now and QML (as it is required now for the application I work with)

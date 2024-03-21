@@ -11,7 +11,7 @@ style = "github-dark"
   author = "Anastasiya Semiankevich"
   info = "Lead QA Engineer"
   description = "Anastasiya Semiankevich's personal website"
-  keywords = "qa,personal"
+  keywords = "qa,personal,testing"
   avatarurl = "https://img.hhcdn.ru/photo/749838066.jpeg?t=1710861912&h=TWFuu-omZ_RgiI5OCDyWDw"
   since = 2024
 
@@ -41,8 +41,23 @@ style = "github-dark"
   weight = 2
   url = "https://t.me/in_nocent"
 
-# Menu items
-[[menu.main]]
-  name = "About"
-  weight = 2
-  url = "about/"
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+
+[languages.en]
+languageName = ':uk:'
+[[languages.en.menu.main]]
+    name = "About"
+    weight = 2
+    url = "about/"
+
+[languages.ru]
+languageName = ':ru:'
+    title = "Анастасия"
+[languages.ru.params]
+    author = "Анастасия Семенкевич"
+    info = "Ведущий инженер по тестированию"
+[[languages.ru.menu.main]]
+    name = "Обо мне"
+    weight = 2
+    url = "about/"
