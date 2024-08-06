@@ -1,9 +1,13 @@
 +++
 title = "Courses I have completed so far"
 description = "Education"
-date = "2024-03-21"
+date = "2024-08-06"
 author = "Anastasiya"
 +++
+
+{{< detail-tag "Learn Python Basics From Your Phone, Udemy.com, august 2024" >}}
+![UC-4f9fb800-87fd-48ab-a147-0ce0cccb9f9e.jpg](/UC-4f9fb800-87fd-48ab-a147-0ce0cccb9f9e.jpg)
+{{< /detail-tag >}}
 
 {{< detail-tag "Python Programming, Stepik.org, september 2023" >}}
 ![Python_Programming_Stepik.png](/Python_Programming_Stepik.png)
