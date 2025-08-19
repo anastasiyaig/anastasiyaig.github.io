@@ -5,6 +5,10 @@ date = "2024-08-06"
 author = "Anastasiya"
 +++
 
+{{< detail-tag "Software Testing: Automation and Programming. API, Stepik.org, august 2025" >}}
+![api_en.png](/api_en.png)
+{{< /detail-tag >}}
+
 {{< detail-tag "Learn Python Basics From Your Phone, Udemy.com, august 2024" >}}
 ![UC-4f9fb800-87fd-48ab-a147-0ce0cccb9f9e.jpg](/UC-4f9fb800-87fd-48ab-a147-0ce0cccb9f9e.jpg)
 {{< /detail-tag >}}
